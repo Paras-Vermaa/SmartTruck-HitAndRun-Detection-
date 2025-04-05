@@ -1,1 +1,6 @@
+Model: yolov8_custom_weights.pt
+Description: YOLOv8 model fine-tuned for truck crash and LPR detection.
+Classes: truck, license_plate
+Framework: Ultralytics YOLOv8
+Training dataset: Custom annotated crash scene images with license plates
 
