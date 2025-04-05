@@ -56,6 +56,18 @@ Models are loaded by the scripts in `/code/`, and were trained using data from `
 
 ## 📊 Visual Output Examples
 
+- `jerk_graph.png`: Visualizes sudden acceleration (jerk) post-collision  
+- `escape_score_graph.png`: Shows EscapeScore spike indicating evasive behavior  
+- `lighting_accuracy_bar_chart.png`: Accuracy of detection across lighting conditions  
+- `behavior_pie_chart.png`: Escape vs Non-Escape behavior distribution  
+- `confusion_matrix.png`: Model performance for escape classification  
+- `rds_score_distribution.png`: RDS value distribution highlighting route deviations (if added)  
+- `frame_exit_timing_chart.png`: Time taken for vehicle to exit frame post-incident (if added)
+  
+----
+
+## 📊 Visual Output Examples
+
 - Graphs: Jerk, EscapeScore over time
 - Bar Chart: Accuracy by lighting condition
 - Pie Chart: Escape behavior breakdown
