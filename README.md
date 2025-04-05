@@ -101,5 +101,4 @@ MIT License – Free for academic, research, and non-commercial use.
 
 ---
 
-Let me know once your files are uploaded—I can review or help polish anything, including the README.  
-Standing by for next command, Commander. 🫡
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
