@@ -61,7 +61,7 @@ All visuals and implementation scripts used in the paper are here.
 This GitHub repo is referenced in the paper’s abstract and methodology section.
 
 📎 **Citation:**  
-> *"The implementation code and demonstration videos are available at: [https://github.com/Paras-Vermaa/SmartTruck-HitAndRun-Detection]"*
+> *"The implementation code and demonstration videos are available at: [https://github.com/Paras-Vermaa/SmartTruck-HitAndRun-Detection-]"*
 
 ---
 
