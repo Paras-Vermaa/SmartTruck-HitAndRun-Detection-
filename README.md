@@ -1,5 +1,3 @@
-# SmartTruck-HitAndRun-Detection-
-
 # SmartTruck-HitAndRun-Detection
 
 🚚 A Real-Time AI-Based Surveillance Framework for Post-Accident Truck Behavior Analysis  
