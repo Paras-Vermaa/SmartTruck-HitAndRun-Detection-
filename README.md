@@ -35,6 +35,24 @@ The system detects crash events, analyzes escape behavior (speed surge, route de
 
 
 ---
+## 📦 Repository Structure
+
+/code/ → All Python code scripts  
+/models/ → Trained models (YOLOv8, GRU)  
+/data/ → Sample GPS logs and escape simulations  
+/results/ → Output charts and graphs  
+/docs/ → Flowcharts and system diagrams
+
+---
+
+## 🧠 Models Used
+
+- `models/yolov8_custom_weights.pt`: YOLOv8 model fine-tuned on truck crash + LPR detection data  
+- `models/route_classifier_gru.h5`: GRU-based classifier trained on simulated GPS deviations to detect escape behavior  
+
+Models are loaded by the scripts in `/code/`, and were trained using data from `/data/`.
+
+---
 
 ## 📊 Visual Output Examples
 
