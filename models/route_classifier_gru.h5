@@ -1,1 +1,7 @@
+Model: route_classifier_gru.h5
+Description: GRU-based binary classifier for route deviation detection.
+Input shape: (timesteps, GPS_features)
+Output: 0 (normal route), 1 (deviated route)
+Framework: TensorFlow/Keras
+Trained on: Simulated GPS crash and escape path sequences
 
