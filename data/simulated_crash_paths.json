@@ -1,1 +1,17 @@
+{
+  "vehicle_id": "TRK_1012",
+  "path": [
+    {"t": 0, "lat": 28.6129, "lon": 77.2295, "event": "normal"},
+    {"t": 1, "lat": 28.6130, "lon": 77.2297, "event": "impact"},
+    {"t": 2, "lat": 28.6133, "lon": 77.2301, "event": "escape"},
+    {"t": 3, "lat": 28.6136, "lon": 77.2306, "event": "escape"},
+    {"t": 4, "lat": 28.6140, "lon": 77.2310, "event": "escape"}
+  ],
+  "metrics": {
+    "jerk": [0.0, 1.5, 2.1, 1.7, 0.6],
+    "speed": [42, 45, 59, 68, 72],
+    "route_deviation": 0.045,
+    "time_to_exit": 1.9
+  }
+}
 
